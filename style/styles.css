@@ -1,0 +1,53 @@
+.purple {
+    color: purple;
+}
+
+.red {
+    color: red !important;
+}
+
+#article-1 {
+    color: white;
+}
+
+.white {
+    color: inherit;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    border-bottom: 1px solid gray;
+}
+
+
+.purple {
+    color: purple;
+}
+
+.red {
+    color: red !important;
+}
+
+body {
+    background: url('../images/Earth-terminator.jpg');
+
+}
+
+.background-image {
+    background: url("../images/Earth-terminator.jpg") center center;
+    background-size: 100%;
+}
+
+#article-1 {
+    color: white;
+}
+
+.white {
+    color: inherit;
+}
+
+.carousel .item {
+
+    text-align: center !important;
+
+}

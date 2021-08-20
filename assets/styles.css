@@ -1,0 +1,20 @@
+.purple {
+    color: purple;
+}
+
+.red {
+    color: red !important;
+}
+
+.background-image {
+    background: url("../assets/images/Earth-terminator.jpg") center center;
+    background-size: 100%;
+}
+
+#article-1 {
+    color: white;
+}
+
+.white {
+    color: inherit;
+}
